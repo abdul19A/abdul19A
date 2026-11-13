@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Abdul👋
+
+I am a Software Engineer who loves making physics/math adjacent projects. I mainly love incorporating visuals and making very cool looking results from math or even physics simulations. 
 
 <!--
 **abdul19A/abdul19A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
